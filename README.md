@@ -1,7 +1,5 @@
 ## 你好！/Hi there!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I014RO9L)
-
 ### 引言/Quotation
 
 <details>
