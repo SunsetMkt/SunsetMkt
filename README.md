@@ -1,5 +1,7 @@
 ## 你好！/Hi there!
 
+[![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/SunsetMkt)
+
 ### 引言/Quotation
 
 <details>
