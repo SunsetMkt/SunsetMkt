@@ -1,8 +1,10 @@
-## 你好！/Hi there!
+## Hi 👋, I'm Sunset!
 
-[![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/SunsetMkt)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=SunsetMkt&color=blue&style=flat) [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=flat)](https://patreon.com/SunsetMkt)
 
-### 引言/Quotation
+Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese available. I'm a full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
+
+### Quotation
 
 <details>
 <summary>Click to expand</summary>
@@ -15,12 +17,17 @@
 
 </details>
 
-### 统计/Statistics
+### Statistics
 
-| [![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus)](https://github.com/anuraghazra/github-readme-stats) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<details>
+<summary>Click to expand</summary>
 
-### 致谢/Thanks to & Powered by
+| [![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+</details>
+
+### Thanks to
 
 <details>
 <summary>Click to expand</summary>
