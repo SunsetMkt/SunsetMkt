@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Sunset!
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=SunsetMkt&color=blue&style=flat) [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=flat)](https://patreon.com/SunsetMkt)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=SunsetMkt&color=blue&style=flat) [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=flat)](https://patreon.com/SunsetMkt) [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
 
@@ -22,8 +22,11 @@ Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full
 <details>
 <summary>Click to expand</summary>
 
-| [![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+[![autocomplete](https://codeium.com/badges/user/sunsetmkt/autocomplete)](https://codeium.com/profile/sunsetmkt)
+
+[![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
