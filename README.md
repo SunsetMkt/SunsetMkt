@@ -28,6 +28,8 @@ Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SunsetMkt&theme=transparent)](https://git.io/streak-stats)
+
 </details>
 
 ### Skills
