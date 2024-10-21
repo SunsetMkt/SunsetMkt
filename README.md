@@ -30,6 +30,8 @@ Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SunsetMkt&theme=transparent)](https://git.io/streak-stats)
 
+<a href="https://gitroll.io/profile/up0e9TqeuU8RIZdY0PYx07zrDEXi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/up0e9TqeuU8RIZdY0PYx07zrDEXi2" alt="GitRoll Profile Badge"/></a>
+
 ![Moe Counter](https://count.getloli.com/get/@SunsetMkt)
 
 ![](https://hit.yhype.me/github/profile?user_id=26019675)
