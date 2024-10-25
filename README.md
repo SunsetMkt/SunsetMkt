@@ -4,16 +4,24 @@
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
 
+<a href="http://u.fsf.org/16e"><img src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png" alt="Free Software, Free Society"></a>
+
 ### Quotation
 
 <details>
 <summary>Click to expand</summary>
 
+> “正如我们享受他人的发明带来的巨大便利一样，我们也应该乐于有机会让自己的发明为他人服务，而且我们应该免费并慷慨地这么做。”
+>
+> "As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously."
+>
+> [Benjamin Franklin](https://www.gnu.org/home.en.html)
+
 > “我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民互相隔离的政府，将认识到他们这么做不但伤害自己的利益，也伤害自己公民和全人类的权利。”
 >
 > "We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity."
 >
-> [Reference](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
+> [Improving Our Policies as We Continue to Enable Global Collaboration](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
 
 </details>
 
