@@ -11,17 +11,23 @@ Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full
 <details>
 <summary>Click to expand</summary>
 
-> “正如我们享受他人的发明带来的巨大便利一样，我们也应该乐于有机会让自己的发明为他人服务，而且我们应该免费并慷慨地这么做。”
+> 正如我们享受他人的发明带来的巨大便利一样，我们也应该乐于有机会让自己的发明为他人服务，而且我们应该免费并慷慨地这么做。
 >
-> "As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously."
+> As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours, and this we should do freely and generously.
 >
 > [Benjamin Franklin](https://www.gnu.org/home.en.html)
 
-> “我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民互相隔离的政府，将认识到他们这么做不但伤害自己的利益，也伤害自己公民和全人类的权利。”
+> 我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民互相隔离的政府，将认识到他们这么做不但伤害自己的利益，也伤害自己公民和全人类的权利。
 >
-> "We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity."
+> We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.
 >
 > [Improving Our Policies as We Continue to Enable Global Collaboration](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
+
+> 我们支持软件用户的自由，因为我们坚信这是每个用户应得的。有了这些自由，软件用户，无论是个人还是集体，都可以掌控所运行的软件，并决定这些程序如何为自己服务。如果一个软件令用户失去了这种控制权，我们则称它为“非自由”的，或“专有”的程序。与自由软件相反，非自由软件会操控它的用户，而软件的开发者则掌控着软件。这使得非自由软件成为了非正义力量的帮凶。
+>
+> We campaign for these freedoms because everyone deserves them. With these freedoms, the users (both individually and collectively) control the program and what it does for them. When users don't control the program, we call it a “nonfree” or “proprietary” program. The nonfree program controls the users, and the developer controls the program; this makes the program an instrument of unjust power. 
+>
+> [What is Free Software?](https://www.gnu.org/philosophy/free-sw.en.html)
 
 </details>
 
