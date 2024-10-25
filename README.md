@@ -1,17 +1,19 @@
 ## Hi 👋, I'm Sunset!
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=SunsetMkt&color=blue&style=flat) [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=flat)](https://patreon.com/SunsetMkt) [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=SunsetMkt&color=blue&style=flat) [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F12843480&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=flat)](https://patreon.com/SunsetMkt) [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
-
-Sometimes government export control regulations and trade sanctions can constrain our freedom to distribute copies of programs or contribute to projects internationally.  Software developers do not have the power to eliminate or override these restrictions, but what we can and must do is refuse to impose them as conditions of use or development of the program.  In this way, the restrictions will not affect activities and people outside the jurisdictions of these governments. Thus, we never require contributors to obedience to any nontrivial export regulations as a condition of exercising any of the essential freedoms. We will never proactively ban contributors from any country or region due to government export control regulations or trade sanctions unless we are under severe duress.
-
-<a href="https://u.fsf.org/friendspring19"><img src="https://static.fsf.org/nosvn/images/badges/Spring19-dark-age.png" alt="Double the movement"></a>
 
 ### Quotation
 
 <details>
 <summary>Click to expand</summary>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+Sometimes government export control regulations and trade sanctions can constrain our freedom to distribute copies of programs or contribute to projects internationally.  Software developers do not have the power to eliminate or override these restrictions, but what we can and must do is refuse to impose them as conditions of use or development of the program.  In this way, the restrictions will not affect activities and people outside the jurisdictions of these governments. Thus, we never require contributors to obedience to any nontrivial export regulations as a condition of exercising any of the essential freedoms. We will never proactively ban contributors from any country or region due to government export control regulations or trade sanctions unless we are under severe duress.
+
+<a href="https://u.fsf.org/friendspring19"><img src="https://static.fsf.org/nosvn/images/badges/Spring19-dark-age.png" alt="Double the movement"></a>
 
 > 正如我们享受他人的发明带来的巨大便利一样，我们也应该乐于有机会让自己的发明为他人服务，而且我们应该免费并慷慨地这么做。
 >
