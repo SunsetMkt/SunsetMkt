@@ -4,6 +4,8 @@
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
 
+Sometimes government export control regulations and trade sanctions can constrain our freedom to distribute copies of programs or contribute to projects internationally.  Software developers do not have the power to eliminate or override these restrictions, but what we can and must do is refuse to impose them as conditions of use or development of the program.  In this way, the restrictions will not affect activities and people outside the jurisdictions of these governments. Thus, we never require contributors to obedience to any nontrivial export regulations as a condition of exercising any of the essential freedoms. We will never proactively ban contributors from any country or region due to government export control regulations or trade sanctions unless we are under severe duress.
+
 <a href="https://u.fsf.org/friendspring19"><img src="https://static.fsf.org/nosvn/images/badges/Spring19-dark-age.png" alt="Double the movement"></a>
 
 ### Quotation
