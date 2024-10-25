@@ -58,8 +58,8 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
 - [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.
 - [Codeium](https://codeium.com?referral_id=bHdkLXRlbXBAb3V0bG9vay5jb20=) - Excellent & free AI code completion solution.
-- [GNU Operating System](https://www.gnu.org/home.en.html)
-- [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to open-source community.
+- [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
+- [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to the open-source community.
 - [Microsoft](https://www.microsoft.com/)
 - [Mozilla](https://www.mozilla.org/)
 - [NameSilo](https://www.namesilo.com/domain/search-domains?rid=d0b7e93ym) - Trusted domain name registrar.
