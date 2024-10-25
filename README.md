@@ -4,7 +4,7 @@
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github-contact@sunmkt.top).
 
-<a href="http://u.fsf.org/16e"><img src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_beige-bg.png" alt="Free Software, Free Society"></a>
+<a href="https://u.fsf.org/friendspring19"><img src="https://static.fsf.org/nosvn/images/badges/Spring19-dark-age.png" alt="Double the movement"></a>
 
 ### Quotation
 
