@@ -4,7 +4,7 @@
 
 Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full-stack developer. [Email me](mailto:github@sunmkt.uk).
 
-### Quotation
+### Quotations
 
 <details>
 <summary>Click to expand</summary>
