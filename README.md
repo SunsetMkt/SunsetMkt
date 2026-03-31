@@ -56,7 +56,6 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 
 - [Bitwarden](https://bitwarden.com/) - The password manager trusted by millions.
 - [Cloudflare](https://www.cloudflare.com/) - Connect, protect and build everywhere.
-- [Cloudcone](https://app.cloudcone.com/?ref=11355) - An average and [cost-effective](https://hello.cloudcone.com/hashtag-2024-sale-yearly-vps/) virtual private server solution.
 - [Codeium](https://codeium.com/) - Excellent & free AI code completion solution.
 - [Free Software Foundation](https://www.fsf.org/) & [GNU Operating System](https://www.gnu.org/home.en.html)
 - [JetBrains Open Source Development License](https://jb.gg/OpenSourceSupport) - Special thanks to JetBrains for their support to the open-source community.
