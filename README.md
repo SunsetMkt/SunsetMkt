@@ -74,8 +74,8 @@ _Here is a list of numerous technologies I have come across, but it does not imp
 <summary>Click to expand</summary>
 
 ```bash
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
+git config --global user.name "Sunset Mikoto"
+git config --global user.email "26019675+SunsetMkt@users.noreply.github.com"
 ```
 
 </details>
