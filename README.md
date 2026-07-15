@@ -28,9 +28,9 @@ Lead Programmer of @Sunset-Edu-Tech-Group. English & Chinese are available. Full
 <details>
 <summary>Click to expand</summary>
 
-[![SunsetMkt's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![SunsetMkt's GitHub stats](https://github-stats-extended.vercel.app/api?username=SunsetMkt&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SunsetMkt&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Moe Counter](https://count.getloli.com/get/@SunsetMkt)
 
